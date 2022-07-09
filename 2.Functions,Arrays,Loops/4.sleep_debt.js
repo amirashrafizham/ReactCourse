@@ -1,3 +1,5 @@
+//JAVASCRIPT FUNCTIONS EXERCISE
+
 function getSleepHours(day) {
   switch (day) {
     case "monday":

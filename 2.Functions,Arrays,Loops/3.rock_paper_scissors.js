@@ -1,3 +1,5 @@
+// JAVASCRIPT FUNCTIONS EXERCISE
+
 const getUserChoice = (userInput) => {
   userInput = userInput.toLowerCase();
   switch (userInput) {

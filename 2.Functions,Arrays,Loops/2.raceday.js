@@ -1,4 +1,4 @@
-// CONDITIONALS EXERCISE
+// JAVASCRIPT CONDITIONALS EXERCISE
 
 let raceNumber = Math.floor(Math.random() * 1000);
 
